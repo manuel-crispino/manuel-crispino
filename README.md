@@ -1,1 +1,4 @@
-I Love coding  ![coding](https://tenor.com/it/view/code-encoding-typing-working-busy-gif-17808977)
+WELCOME IN MY GITHUB 
+
+I LOVE CODING,PIZZA AND NICE WEATHER 
+CURRENTLY WORKING ON UPGRADING MY SKILLS AND IN MY OWN PROJECTS.
