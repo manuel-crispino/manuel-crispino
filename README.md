@@ -1,6 +1,79 @@
-WELCOME IN MY GITHUB 
+<h1 align="center">🚀 Manuel Crispino 🚀</h1>
 
-I LOVE CODING,PIZZA AND NICE WEATHER 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Welcome+you+are,+to+my+GitHub!;Code+or+do+not,+there+is+no+try!+%F0%9F%A4%9D;Learning,+I+am.+Growing,+I+must!+%F0%9F%91%8D" alt="Typing SVG" />
+</p>
 
-CURRENTLY WORKING IN MY OWN PROJECTS.
-k
+---
+
+### 🌟 **About Me**
+🧑‍💻 Hello there! I'm **Manuel Crispino**, a passionate **developer, problem solver, and tech enthusiast**.  
+I love building things, breaking them, and then fixing them again! 😆  
+
+🔹 **🛠 Tech Stack & Tools:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+🔹 **📚 Currently Learning:**  
+- Mastering **backend development with Node.js & Go**  
+- Deep diving into **TypeScript & scalable architectures**  
+- Becoming a **Jedi in software development** 🧑‍🚀  
+
+---
+
+### 🌌 **A Bit of Fun**
+    .--. 
+   |o_o | 
+   |:_/ | 
+  //   \ \  
+ (|     | ) 
+/'\_   _/`\
+\___)=(___/
+
+🎭 **Meet GitBot:** The guardian of my repos. If my code breaks, it's totally *his* fault. 😆  
+
+    __
+_.-'  `-._
+/ | |
+| | ☉ ☉ | | | | ▭▭▭ | | "Code or do not, there is no try!" | | | |
+\ |____| / `-.__.-'
+
+🟢 **Master Yoda:** Reviewing my PRs he is. Approve them, he must.  
+
+---
+
+### 🏆 **GitHub Stats & Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manuel-crispino&theme=tokyonight&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manuel-crispino&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 **My Projects**
+- 🛠 **[Project 1](https://github.com/manuel-crispino/project1)** - Cool project description  
+- 🚀 **[Project 2](https://github.com/manuel-crispino/project2)** - Another awesome project  
+- 📌 **[See all my repositories](https://github.com/manuel-crispino?tab=repositories)**  
+
+---
+
+### 📡 **Where to Find Me**
+<p align="center">
+  <a href="https://github.com/manuel-crispino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/manuel-crispino"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+✨ **May the Code be with You!** 🚀  
