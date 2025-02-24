@@ -26,6 +26,7 @@ I love building things, breaking them, and then fixing them again! 😆
 ---
 
 ### 🌌 **A Bit of Fun**
+```
     .--. 
    |o_o | 
    |:_/ | 
@@ -33,6 +34,7 @@ I love building things, breaking them, and then fixing them again! 😆
 (|     | ) 
 /'\_   _/`\
 \___)=(___/
+```
 
 🎭 **Meet GitBot:** The guardian of my repos. If my code breaks, it's totally *his* fault. 😆  
 ```  __
