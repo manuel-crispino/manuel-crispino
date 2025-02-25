@@ -26,12 +26,7 @@ I love building things, breaking them, and then fixing them again! 😆
 ---
 
 ### 🌌 **A Bit of Fun**
-<div align="center">
 
-![Yoda Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Zzc2VqazhubG9rbGQzNzB3YzBuaHNleDVtMTJ0eTYxY25uYXBlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0y2legbWJQLiqWlrb/giphy.gif)
-
-✨ **May the Code be with You!** 🚀  
- 
 🎭 **Meet GitBot:** The guardian of my repos. If my code breaks, it's totally *his* fault. 😆  
 ```  __
 _.-'  `-.__
@@ -72,5 +67,10 @@ _.-'  `-.__
   <a href="https://github.com/manuel-crispino"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manuel-crispino-60933a14a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
- </div>
 ---
+<div align="center">
+
+![Yoda Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Zzc2VqazhubG9rbGQzNzB3YzBuaHNleDVtMTJ0eTYxY25uYXBlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0y2legbWJQLiqWlrb/giphy.gif)
+
+✨ **May the Code be with You!** 🚀  
+ </div>
