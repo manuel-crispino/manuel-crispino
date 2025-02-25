@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Manuel Crispino 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Welcome+you+are,+to+my+GitHub!;Code+hard+or+Go+Home!,+%F0%9F%A4%9D;Just Code!+%F0%9F%91%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&width=435&lines=Welcome+you+are,+to+my+GitHub!;+ + +Manuel+Crispino+ + ,+%F0%9F%A4%9D;+ +Code+hard+or+Go+Home !!+%F0%9F%91%8D" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,6 +79,9 @@ _.-'  `-._
 
 ---
 
+<div align="center">
+
 ![Yoda Gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Zzc2VqazhubG9rbGQzNzB3YzBuaHNleDVtMTJ0eTYxY25uYXBlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0y2legbWJQLiqWlrb/giphy.gif)
 
 ✨ **May the Code be with You!** 🚀  
+  </div>
