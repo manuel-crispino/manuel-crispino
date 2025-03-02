@@ -36,7 +36,6 @@ _.-'  `-.__
         
 ```
  
-🟢 **Master Yoda:** Reviewing my PRs he is. Approve them, he must.  
 
 ---
 
