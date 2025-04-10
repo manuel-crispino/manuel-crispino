@@ -58,9 +58,7 @@ _.-'  `-.__
 ---
 
 ### 🚀 **My Projects**
-- 🛠 **[Project 1](https://github.com/manuel-crispino/superhero)** - Cool project : SUPER HERO API 
-- 🚀 **[Project 2](https://github.com/manuel-crispino/blog-template-react)** - Another awesome project  
-- 📌 **[See all my repositories](https://github.com/manuel-crispino?tab=repositories)**  
+- 🛠 **[All My Projects]([https://github.com/manuel-crispino/superhero](https://manuelcrispinopersonalportfolio-manuels-projects-6a0d1031.vercel.app/))** - My Portfolio 
 
 ---
 
