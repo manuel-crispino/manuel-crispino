@@ -58,7 +58,7 @@ _.-'  `-.__
 ---
 
 ### 🚀 **My Projects**
-- 🛠 **[All My Projects]([https://manuelcrispinopersonalportfolio-manuels-projects-6a0d1031.vercel.app/]))** - My Portfolio 
+🛠 **[All My Projects](https://manuelcrispinopersonalportfolio-manuels-projects-6a0d1031.vercel.app/)** - My Portfolio
 
 ---
 
