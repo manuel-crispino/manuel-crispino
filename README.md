@@ -28,20 +28,6 @@ I love building things, breaking them, and then fixing them again! 😆
 
 ---
 
-### 🌌 **A Bit of Fun**
-
-🎭 **Meet GitBot:** The guardian of my repos. If my code breaks, it's totally *his* fault. 😆  
-```  __
-_.-'  `-.__
-/ __   __  |     ||||
-|  ☉ | ☉   |      ▭▭▭   | "Is Just Another Bug To Solve ! " | | | |
-\ |____| / `-.__.-'
-        
-```
- 
-
----
-
 ### 🏆 **GitHub Stats & Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manuel-crispino&theme=tokyonight&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
