@@ -38,7 +38,7 @@ I love building things, breaking them, and then fixing them again! 😆
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=manuel-crispino&theme=tokyonight" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=manuel-crispino&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
