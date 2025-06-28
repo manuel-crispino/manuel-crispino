@@ -34,11 +34,11 @@ I love building things, breaking them, and then fixing them again! 😆
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true&timestamp=${Date.now()}" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=manuel-crispino&theme=tokyonight&timestamp=123456" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=manuel-crispino&theme=tokyonight&timestamp=${Date.now()}" alt="GitHub Streak" />
 </p>
 
 ---
