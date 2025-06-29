@@ -34,7 +34,7 @@ I love building things, breaking them, and then fixing them again! 😆
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true&timestamp=${Date.now()}" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true&timestamp=1234}" alt="GitHub Stats" />
 </p>
 
 <p align="center">
