@@ -8,7 +8,7 @@
 
 ### 🌟 **About Me**
 🧑‍💻 Hello there! I'm **Manuel Crispino**, a passionate **developer, problem solver, and tech enthusiast**.  
-I love building things, breaking them, and then fixing them again! 😆  
+
 
 🔹 **🛠 Tech Stack & Tools:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
