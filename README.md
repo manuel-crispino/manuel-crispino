@@ -23,7 +23,7 @@
 
 🔹 **📚 Currently Learning:**  
 - Mastering **backend development with Node.js & Go**  
-- Deep diving into **TypeScript & scalable architectures**  
+- Deep diving into **TypeScript, React & scalable architectures**  
 - Leveling up as a software developer — **one commit at a time 🧑‍🚀** 
 - **42 Vienna** student  mastering **C, Bash, and the Unix**  philosophy 
 
