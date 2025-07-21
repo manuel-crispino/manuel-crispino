@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/:username=manuel-crispino/:repo">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-crispino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
