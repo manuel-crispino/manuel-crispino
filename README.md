@@ -35,6 +35,10 @@
 </p>
 
 <p align="center">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/:username=manuel-crispino/:repo">
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
