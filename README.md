@@ -35,9 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-crispino&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-crispino&layout=compact&langs_count=100&theme=tokyonight" 
+    alt="Top Langs" 
+    width="800" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
