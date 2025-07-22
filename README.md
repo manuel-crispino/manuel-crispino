@@ -38,7 +38,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-crispino&layout=compact&langs_count=100&theme=tokyonight" 
     alt="Top Langs" 
-    width="400" />
+    width="400" height="200"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
