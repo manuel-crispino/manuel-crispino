@@ -51,7 +51,7 @@
 ---
 
 ### 🚀 **My Projects**
-🛠 **[All My Projects](https://www.manuelcrispino.dev/))** - My Portfolio
+🛠 **[All My Projects](https://www.manuelcrispino.dev/)** - My Portfolio
 
 ---
 
