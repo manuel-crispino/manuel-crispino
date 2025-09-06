@@ -29,7 +29,7 @@
 🔹 **🌍 Languages:**  
 - 🇮🇹 Italian (native)  
 - 🇬🇧 English (fluent)  
-- 🇩🇪 German (intermediate)  
+- 🇩🇪 German (fluent)  
 - 🇪🇸 Spanish (fluent)
 
 🔹 **💼 Availability:**  
