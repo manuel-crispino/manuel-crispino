@@ -24,9 +24,32 @@
 🔹 **📚 Currently Learning:**  
 - Mastering **backend development with Node.js & Go**  
 - Deep diving into **TypeScript, React & scalable architectures**  
-- Leveling up as a software developer — **one commit at a time 🧑‍🚀** 
-- **42 Vienna** student  mastering **C, Bash, and the Unix**  philosophy 
+- Leveling up as a software developer — **one commit at a time 🧑‍🚀**
+  
+🔹 **🌍 Languages:**  
+- 🇮🇹 Italian (native)  
+- 🇬🇧 English (fluent)  
+- 🇩🇪 German (intermediate)  
+- 🇪🇸 Spanish (fluent)
 
+🔹 **💼 Availability:**  
+- Living in Spain 🇪🇸  
+- Open to remote opportunities worldwide 🌍
+
+🔹 **💼 Services Offered:**  
+- Full Stack Web Development (React, Node.js, TypeScript, PostgreSQL)  
+- REST / GraphQL APIs & scalable backend solutions  
+- Frontend UI/UX with React + TailwindCSS  
+- Hosting, deployment & maintenance (Vercel, AWS, Docker)  
+- Automation scripts (WhatsApp Business, Telegram bots, e-commerce tools)
+
+🔹 **✨ Extra Services:**  
+- Migration of legacy projects to modern stack (React + Node.js)  
+- SEO optimization & performance improvements (Core Web Vitals, LCP, etc.)  
+- Technical consulting for startups & freelance projects  
+- Interactive dashboards and data visualizations  
+- Custom integrations with external APIs (Stripe, PayPal, Google Services)
+  
 ---
 
 ### 🏆 **GitHub Stats & Trophies**
