@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Manuel Crispino 🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00000&width=435&lines=Welcome+you+are,+to+my+GitHub!;%F0%9F%A4%9D++++Manuel+Crispino++++%F0%9F%A4%9D;Check+my+Projects+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00000&width=500&lines=Welcome+you+are,+to+my+GitHub!;Let's+connect+and+build+howsome+Apps+!" alt="Typing SVG" />
 </p>
 
 ---
