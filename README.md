@@ -4,16 +4,13 @@
 </p>
 
 ---
-
 If you appreciate my work and want to support my projects, you can sponsor me here:
 
 [![Sponsor me](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/manuel-crispino)
 
 ---
-
 ### 🌟 **About Me**
 🧑‍💻 Hello there! I'm **Manuel Crispino**, a passionate **developer, problem solver, and tech enthusiast**.  
-
 
 🔹 **🛠 Tech Stack & Tools:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,34 +21,19 @@ If you appreciate my work and want to support my projects, you can sponsor me he
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
-🔹 **📚 Currently Learning:**  
-- Mastering **backend development with Node.js & Go**  
-- Deep diving into **TypeScript, React & scalable architectures**  
-- Leveling up as a software developer — **one commit at a time 🧑‍🚀**
-
 🔹 **💼 Availability:**  
 - Living in Spain 🇪🇸  
 - Open to remote opportunities worldwide 🌍
 
-🔹 **💼 Services Offered:**  
-- Full Stack Web Development (React, Node.js, TypeScript, PostgreSQL)  
-- REST / GraphQL APIs & scalable backend solutions  
-- Frontend UI/UX with React + TailwindCSS  
-- Hosting, deployment & maintenance (Vercel, AWS, Docker)  
-- Automation scripts (WhatsApp Business, Telegram bots, e-commerce tools)
-
-🔹 **✨ Extra Services:**  
-- Migration of legacy projects to modern stack (React + Node.js)  
-- SEO optimization & performance improvements (Core Web Vitals, LCP, etc.)  
-- Technical consulting for startups & freelance projects  
-- Interactive dashboards and data visualizations  
-- Custom integrations with external APIs (Stripe, PayPal, Google Services)
-  
----
-
 ### 🏆 **GitHub Stats & Trophies**
+
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-crispino&layout=compact&langs_count=100&theme=tokyonight" 
+    alt="Top Langs" 
+    width="400" height="400"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manuel-crispino&theme=tokyonight&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
