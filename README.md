@@ -30,12 +30,6 @@ If you appreciate my work and want to support my projects, you can sponsor me he
 - Mastering **backend development with Node.js & Go**  
 - Deep diving into **TypeScript, React & scalable architectures**  
 - Leveling up as a software developer — **one commit at a time 🧑‍🚀**
-  
-🔹 **🌍 Languages:**  
-- 🇮🇹 Italian (native)  
-- 🇬🇧 English (fluent)  
-- 🇩🇪 German (fluent)  
-- 🇪🇸 Spanish (fluent)
 
 🔹 **💼 Availability:**  
 - Living in Spain 🇪🇸  
