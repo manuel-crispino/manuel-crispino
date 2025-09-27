@@ -7,7 +7,9 @@
 If you appreciate my work and want to support my projects, you can sponsor me here: [![Sponsor me](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/manuel-crispino)
 
 ---
+
 ### 🌟 **About Me**
+
 🧑‍💻 Hello there! I'm **Manuel Crispino**, a passionate **developer, problem solver, and tech enthusiast**.  
 
 🔹 **🛠 Tech Stack & Tools:**  
@@ -20,27 +22,23 @@ If you appreciate my work and want to support my projects, you can sponsor me he
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 🔹 **💼 Availability:**  
-- Living in Spain 🇪🇸  
+- Spain 🇪🇸  
 - Open to remote opportunities worldwide 🌍
 
 ### 🏆 **GitHub Stats & Trophies**
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manuel-crispino&theme=tokyonight&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+</p>
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuel-crispino&layout=compact&langs_count=100&theme=tokyonight" 
     alt="Top Langs" 
     width="400" height="400"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manuel-crispino&theme=tokyonight&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manuel-crispino&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=manuel-crispino&theme=tokyonight" alt="GitHub Streak" />
 </p>
