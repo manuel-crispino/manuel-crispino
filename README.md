@@ -4,7 +4,7 @@
 </p>
 
 ---
-If you appreciate my work and want to support my projects, you can sponsor me here: [![Sponsor me](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/manuel-crispino)
+Sponsor me here: [![Sponsor me](https://img.shields.io/badge/Sponsor-💖-pink)](https://github.com/sponsors/manuel-crispino)
 
 ---
 
